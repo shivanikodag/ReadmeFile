@@ -29,3 +29,7 @@ Easy and fast to develop database applications without using any server side pro
   6)It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
   
   7)It helps developers in faster coding, in-turn reduces development cost.
+  
+ ** Screenshot of changes done in JsonPoerDb home page after inserting three records of Employee:**
+
+![Screenshot (158)](https://user-images.githubusercontent.com/101492881/158052052-b8dd6d63-a62d-4afd-a33c-1315dbe38485.png)
